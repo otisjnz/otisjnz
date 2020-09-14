@@ -14,7 +14,13 @@
     }
 </style>
 <body>
-    <div class ="idk">
+    <div style ="    width:90%; 
+    padding:0.25em;
+    border:2px solid #999999;
+    border-radius:2em;
+    font-size:94%;
+    text-align:center;
+    background-color:#FE78F2;">
     </div>   
 </body>
 </html>
