@@ -1,8 +1,7 @@
 <html>
 <body>
     <h1> Who am I?</h1>
-    <p> Kia Ora! My name is Otis, otherwise known as Tabogachi. I'm a student with an interest in code.
-            Currently I know HTML, CSS and am learning JavaScript. I'm always wanting to learn and improve, so let me know if you've found any bugs!</p>
+    <p> hey, I'm tabo. learning a bunch of different languages while suffering at school</p>
 </body>
 </html>
 
