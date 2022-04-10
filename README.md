@@ -1,6 +1,6 @@
 <html>
 <body>
-    <h1> Who am I?</h1>
+    <h1> my profile</h1>
     <p> hey, I'm tabo. learning a bunch of different languages while suffering at school</p>
 </body>
 </html>
