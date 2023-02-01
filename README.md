@@ -1,7 +1,7 @@
 <html>
 <body>
     <h1> my profile</h1>
-    <p> NZ Student learning trying to learn computer science and programming</p>
+  <!--  <p> NZ Student learning trying to learn computer science and programming</p> -->
 </body>
 </html>
 
